@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/completed-recipe-page-using-html-scsscss-12Ymr0jrbf)
 - Live Site URL: [Add live site URL here](https://recipe-page-practice-ab.netlify.app/)
 
 ## Author
